@@ -36,6 +36,10 @@ The video demonstrates:
 - Random transformations (rotation, scaling, and shifting) being applied to each frame
 - The variety of airplane images in the CIFAR-10 dataset and how they're processed
 
+### CIFAR-10 Dataset Classes
+
+<img src="cifar-10-img.png" width="400" alt="CIFAR-10 Classes">
+
 ## Steps to Run the Project
 
 ### 1. Install Required Libraries
