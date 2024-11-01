@@ -1,0 +1,27 @@
+cat > .gitignore << 'EOF'
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Environment files
+venv/
+env/
+.env
+
+# CIFAR-10 data files
+train
+test
+cifar-10-batches-py/data_batch_*
+cifar-10-batches-py/test_batch
+cifar-10-batches-py/batches.meta
+
+# System files
+.DS_Store
+**/.DS_Store
+
+# Other
+*.log
+*.swp
+*.bak
+*~
+EOF
