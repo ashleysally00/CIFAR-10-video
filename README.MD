@@ -22,6 +22,20 @@ main_project_folder/
 ├── cifar10_videos/     # Output folder for generated videos
 ```
 
+## Video Demonstration
+
+This project processes images from the CIFAR-10 dataset to create video sequences of similar objects. Below is an example of generated video sequences for the airplane class, showing how the algorithm transitions between different airplane images in the dataset.
+
+### Example: Airplane Class Transitions
+
+![Airplane Image Transitions](airplane_example.gif)
+
+The video demonstrates:
+
+- Smooth transitions between different airplane images from the dataset
+- Random transformations (rotation, scaling, and shifting) being applied to each frame
+- The variety of airplane images in the CIFAR-10 dataset and how they're processed
+
 ## Steps to Run the Project
 
 ### 1. Install Required Libraries
