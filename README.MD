@@ -1,5 +1,16 @@
 # CIFAR-10 Video Generation and Playback
 
+## Table of Contents
+
+- [Dataset Information](#dataset-information)
+- [Project Overview](#project-overview)
+- [Project Structure](#project-structure)
+- [Video Demonstration](#video-demonstration)
+- [Steps to Run the Project](#steps-to-run-the-project)
+- [Key Code Features](#key-code-features)
+- [Project Requirements](#project-requirements)
+- [Citation](#citation)
+
 ## Dataset Information
 
 The [CIFAR-10 and CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html) are labeled subsets of the 80 million tiny images dataset. They were collected by Alex Krizhevsky, Vinod Nair, and Geoffrey Hinton.
@@ -41,6 +52,12 @@ The video demonstrates:
 <img src="cifar-10-img.png" width="400" alt="CIFAR-10 Classes">
 
 ## Steps to Run the Project
+
+### 1. Download the Dataset
+
+1. Download the CIFAR-10 Python version from [the official website](https://www.cs.toronto.edu/~kriz/cifar.html)
+2. Extract the downloaded file into your project directory
+3. You should see the `cifar-10-batches-py` directory with the data files
 
 ### 1. Install Required Libraries
 
