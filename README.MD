@@ -1,4 +1,21 @@
-# CIFAR-10 Video Generation and Playback
+# CIFAR-10 Image-to-Video Generator: Dynamic Visualization of Image Classes
+
+## Project Purpose and Skills Demonstrated
+
+This project showcases technical expertise in computer vision and data visualization by transforming static CIFAR-10 images into dynamic video sequences. It demonstrates:
+
+- **Technical Skills:**
+
+  - Computer Vision: Processing and manipulating image data from CIFAR-10
+  - Image Processing: Applying advanced transformations (rotation, scaling, shifting)
+  - Python Programming: Implementing efficient image processing algorithms
+  - Data Visualization: Converting static image datasets into dynamic video visualizations
+
+- **Project Goals:**
+  - Create an intuitive way to visualize and understand CIFAR-10 image classes
+  - Build a tool that helps others explore image datasets dynamically
+  - Demonstrate practical application of computer vision techniques
+  - Provide clear documentation for reproducibility and learning
 
 ## Table of Contents
 
